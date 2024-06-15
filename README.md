@@ -1,10 +1,11 @@
-# expense_tracker
+# Expense Tracker App
 
-A new Flutter project.
+This is an expense tracker, built using flutter dart.
 
-## Getting Started
+## Information
 
-This project is a starting point for a Flutter application.
+This project aims to make easy for users to add and track their expenses.
+For ease, the users are shown a virtual chart of expenses among all categories in one place.
 
 A few resources to get you started if this is your first Flutter project:
 
