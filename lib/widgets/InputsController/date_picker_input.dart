@@ -20,7 +20,7 @@ class DatePickerInput extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         Text(
-          selectedDate == null ? 'No Date Selected' : formatter.format(selectedDate!),
+          selectedDate == null ? 'Select Date' : formatter.format(selectedDate!),
         ),
         IconButton(
           onPressed: presentDatePicker,

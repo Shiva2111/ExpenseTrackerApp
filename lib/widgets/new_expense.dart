@@ -189,9 +189,7 @@ class _NewExpenseState extends State<NewExpense> {
                         Expanded(
                           child: AmountInput(controller: _amountController),
                         ),
-                        const SizedBox(
-                          width: 20,
-                        ),
+                        
                         Expanded(
                           child: DatePickerInput(
                             selectedDate: _selectedDate,
